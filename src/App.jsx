@@ -61,7 +61,7 @@ function App() {
             27</p>
             <p><strong>Department:</strong> CSE</p>
             <p><strong>Email:</strong> nhemasri2007@gmail.com</p>
-            <p><strong>Phone:</strong> +91 8XXXXXXXXX</p>
+            <p><strong>Phone:</strong> +91 8XXXXXXXX</p>
           </div>
 
           <button className="btn">Contact Student</button>
