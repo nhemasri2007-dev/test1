@@ -57,7 +57,8 @@ function App() {
           <div className="college-name">csa Institute of Technology</div>
 
           <div className="details">
-            <p><strong>ID No:</strong> 22CS027</p>
+            <p><strong>ID No:</strong> 22CS02
+            27</p>
             <p><strong>Department:</strong> CSE</p>
             <p><strong>Email:</strong> nhemasri2007@gmail.com</p>
             <p><strong>Phone:</strong> +91 8XXXXXXXXX</p>
